@@ -9,6 +9,7 @@ package com.example.test;
  */
 public class git {
     public static void main(String[] args) {
-        System.out.println("aaaa");
+        System.out.println("aaaa1");
+        System.out.println("aaaa2");
     }
 }
